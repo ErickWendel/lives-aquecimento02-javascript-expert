@@ -1,0 +1,6 @@
+[submodule "fluentsql-jest-tdd-yt"]
+	path = fluentsql-jest-tdd-yt
+	url = https://github.com/ErickWendel/fluentsql-jest-tdd-yt
+[submodule "01-fluentsql-jest-tdd-yt"]
+	path = 01-fluentsql-jest-tdd-yt
+	url = https://github.com/ErickWendel/fluentsql-jest-tdd-yt
