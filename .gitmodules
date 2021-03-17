@@ -4,3 +4,6 @@
 [submodule "01-fluentsql-jest-tdd-yt"]
 	path = 01-fluentsql-jest-tdd-yt
 	url = https://github.com/ErickWendel/fluentsql-jest-tdd-yt
+[submodule "02-isomorphic-js-esmodules"]
+	path = 02-isomorphic-js-esmodules
+	url = https://github.com/ErickWendel/isomorphic-js-esmodules-yt
