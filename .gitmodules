@@ -7,3 +7,6 @@
 [submodule "02-isomorphic-js-esmodules"]
 	path = 02-isomorphic-js-esmodules
 	url = https://github.com/ErickWendel/isomorphic-js-esmodules-yt
+[submodule "03-map-set-esmodules-yt"]
+	path = 03-map-set-esmodules-yt
+	url = https://github.com/ErickWendel/map-set-esmodules-yt
