@@ -10,3 +10,6 @@
 [submodule "03-map-set-esmodules-yt"]
 	path = 03-map-set-esmodules-yt
 	url = https://github.com/ErickWendel/map-set-esmodules-yt
+[submodule "cli-commands-yt"]
+	path = cli-commands-yt
+	url = https://github.com/ErickWendel/cli-commands-yt.git
