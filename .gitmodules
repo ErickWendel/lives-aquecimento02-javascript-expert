@@ -13,3 +13,6 @@
 [submodule "cli-commands-yt"]
 	path = cli-commands-yt
 	url = https://github.com/ErickWendel/cli-commands-yt.git
+[submodule "05-safe-cmd-nodejs-with-docker"]
+	path = 05-safe-cmd-nodejs-with-docker
+	url = https://github.com/ErickWendel/safe-cmd-nodejs-with-docker-yt
